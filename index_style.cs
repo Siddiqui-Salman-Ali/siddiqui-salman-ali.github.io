@@ -1,4 +1,4 @@
 h1{
   background:oceangreen;
-  color:white
+  color:white;
 }
